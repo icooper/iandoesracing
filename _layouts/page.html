@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="page" id="page-{{ page.slug }}">
+
+    {% if page.img %}
+        <img src="{{ page.img.src }}"
+             class="{{ page.img.class }}"
+             alt="{{ page.img.alt }}"
+             title="{{ page.img.alt }}" />
+    {% endif %}
+
+    <h1 class="page-title">
+        {% if page.longTitle %}
+            {{ page.longTitle }}
+        {% else %}
+            {{ page.title }}
+        {% endif %}
+    </h1>
+
+    {{ content }}
+    
+    {% if page.scripts %}
+        {% for script in page.scripts %}
+            <script type="text/javascript" src="{{ script }}"></script>
+        {% endfor %}
+    {% endif %}
+</div>
