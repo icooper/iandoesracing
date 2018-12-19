@@ -8,6 +8,7 @@ I'm planning on doing this regardless of outside financial support, so any contr
 
 Currently, I'm in the process of sourcing:
 
+* tires <!-- shinko 546 -->
 * motocross-style boots
 * pressure suit and neck restraint
 * hydration solution
