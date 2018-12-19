@@ -13,7 +13,7 @@ Currently, I'm in the process of sourcing:
 * hydration solution
 * lodging for 3 nights near Cheraw
 
-If you can help me with a deal on one of the above needs, please [send me an email](mailto:ian@does.racing) so we can talk.
+If you can help me with a deal on any of the above items, please [send me an email](mailto:ian@does.racing) so we can talk.
 
 Alternatively, if you would like to help out with a few dollars for gas, tires, and food, please use the button below.
 
