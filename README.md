@@ -1,6 +1,6 @@
 # Ian's Blog
 
-This repository is the back-end behind [Ian Goes Racing](https://ian.goes.racing/). I use [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jeckyllrb.com/) with a design based off of [Hyde](https://github.com/poole/hyde). Most of the code is similar to what I also use on [my blog](https://ianc.blog/).
+This repository is the back-end behind [Ian Does Racing](https://ian.does.racing/). I use [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jeckyllrb.com/) with a design based off of [Hyde](https://github.com/poole/hyde). Most of the code is similar to what I also use on [my blog](https://ianc.blog/).
 
 ## License
 
