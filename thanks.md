@@ -1,5 +1,6 @@
 ---
 layout: page
+slug: thanks
 title: Thanks
 longTitle: Thanks for your support!
 ---

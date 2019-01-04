@@ -1,22 +1,13 @@
 ---
 layout: page
+slug: sponsors
 title: Sponsors
 longTitle: Sponsors
 ---
 
 I'm planning on doing this regardless of outside financial support, so any contributions received are above and beyond the basic need. That said, any help along the way is very much appreciated as it reduces the financial burden on myself and my family.
 
-Currently, I'm in the process of sourcing:
-
-* tires <!-- shinko 546 -->
-* motocross-style boots
-* <s>pressure suit and neck restraint</s>
-* hydration solution
-* lodging for 3 nights near Cheraw
-
-If you can help me with a deal on any of the above items, please [send me an email](mailto:ian@does.racing) so we can talk.
-
-Alternatively, if you would like to help out with a few dollars for gas, tires, and food, please use the button below.
+Although the entry fee for Sandblast is relatively low, that's only a small part of the expense of participating in an event like this. Even just a few dollars helps offset the cost of gas, tires, and food.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -29,4 +20,4 @@ Alternatively, if you would like to help out with a few dollars for gas, tires, 
 
 [Continue to follow my journey](/) as a first-time competitor in the 2019 Sandblast Rally. I'll talk about the process of entering as a first-time competitor, preparing myself and the bike, and how it all turns out in the end!
 
-* [Contact Ian or connect with him on social media.](/contact.html)
+* [Contact me or connect on social media.](/contact.html)

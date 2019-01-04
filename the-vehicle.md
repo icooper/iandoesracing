@@ -1,5 +1,6 @@
 ---
 layout: page
+slug: vehicle
 title: The Vehicle
 longTitle: About Ian's Bike
 ---
@@ -18,4 +19,4 @@ As I post additional entries about bike preparation, I'll add them to the list a
 
 [Continue to follow my journey](/) as a first-time competitor in the 2019 Sandblast Rally. I'll talk about the process of entering as a first-time competitor, preparing myself and the bike, and how it all turns out in the end!
 
-* [Contact Ian or connect with him on social media.](/contact.html)
+* [Contact me or connect on social media.](/contact.html)
