@@ -25,7 +25,7 @@ I first took the bike to the inspector at my nearest county clerk's office. This
 
 The inspector was using an inspection checklist that was clearly written for cars, so I pointed out to him that no motorcycles are equipped with doors, which were also on his checklist. It went predictably downhill from there and I left a bit frustrated and without the inspection that I needed in order to register the bike.
 
-I called the sheriff's office to confirm with them that turn signals were not required. They suggested trying another inspector so I traveled across the county to the other county clerk's office. There the inspector was much more informed and gave me a passing inspection without any issues despite copious amounts of mud caked everywhere and a mostly-dead battery.
+I called the sheriff's office to confirm with them that turn signals were not required. They suggested trying another inspector so I traveled across the county to the county clerk's other office location. There the inspector was much more informed and gave me a passing inspection without any issues despite copious amounts of mud caked everywhere and a mostly-dead battery.
 
 ## Insurance
 
