@@ -113,3 +113,18 @@ ul > li {
 .theme-base-08-gray .content abbr {
     color: #ac4142;
 }
+
+/* page-specific styling */
+#page-expenses table > tbody > tr > td:first-of-type {
+    font-family: "IBM Plex Mono", Menlo, Monaco, "Courier New", monospace;
+    text-align: right;
+}
+#page-expenses #total {
+    display: none;
+}
+#page-expenses #total code {
+    font-size: 100%;
+    color: #515151;
+    background: inherit;
+    padding: 0 0.25em;
+}
