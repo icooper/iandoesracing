@@ -9,7 +9,7 @@ date: 2019-01-04
 Here you can see what it looked like on that first day I brought it home:
 ![the KTM upon arriving home the first time](/assets/img/ktm505-orig.jpg "the KTM upon arriving home the first time")
 
-A few months later, I was riding the bike with a friend out in North Carolina when I had <abbr title="This is my way of saying that I crashed. Don't tell Mom!">a slight mishap</abbr>. While both the bike and I were largely unscathed, the fairing suffered a mortal injury and tore right in half down the middle.
+A few months later, I was riding the bike with a friend out in North Carolina when I had <abbr title="This is my way of saying that I crashed. Don't tell Mom!">a slight mishap</abbr>. While both the bike and I were largely unscathed, the fairing suffered a mortal blow and ripped into two pieces.
 
 ![the original fairing torn in half](/assets/img/ktm505-torn.jpg "the original fairing torn in half")
 
