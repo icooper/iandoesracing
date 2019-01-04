@@ -4,7 +4,7 @@ title: Getting Legal
 date: 2018-12-31
 ---
 
-Race vehicles for the Sandblast Rally need to be registered and insured street-legal vehicles. I hadn't yet gone through that process for [the KTM](/the-vehicle), and there was some concern that I might have to jump through some extra hoops since KTM originally only sold the 2009 505 XC-F as a off-road vehicle.
+Race vehicles for the Sandblast Rally need to be registered and insured street-legal vehicles. I hadn't yet gone through that process for [the KTM](/the-vehicle), and I had some concern that I might need to jump through some extra hoops since KTM originally only sold the 2009 505 XC-F as a off-road vehicle.
 
 ## Inspection
 
