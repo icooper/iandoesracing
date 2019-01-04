@@ -98,10 +98,18 @@ ul > li {
     font-weight: 400;
 }
 
+.content abbr {
+    text-decoration: none;
+    text-transform: inherit;
+    font: inherit;
+}
+
 /* red/gray color theme */
 .theme-base-08-gray .sidebar {
     background-color: #2e2e2e;
 }
-.theme-base-08-gray .content a, .theme-base-08-gray .related-posts li a:hover {
+.theme-base-08-gray .content a,
+.theme-base-08-gray .related-posts li a:hover,
+.theme-base-08-gray .content abbr {
     color: #ac4142;
 }
