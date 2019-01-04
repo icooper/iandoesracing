@@ -10,7 +10,7 @@ Currently, I'm in the process of sourcing:
 
 * tires <!-- shinko 546 -->
 * motocross-style boots
-* pressure suit and neck restraint
+* <s>pressure suit and neck restraint</s>
 * hydration solution
 * lodging for 3 nights near Cheraw
 
