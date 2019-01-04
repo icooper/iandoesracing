@@ -35,6 +35,6 @@ I was able to easily add the KTM to my existing motorcycle policy online without
 
 Armed with a passing inspection and proof of insurance, getting the bike registered in Kentucky was as simple as handing the clerk the Colorado title, the inspector's report, and freshly-faxed proof of insurance. After handing over some hard-earned cash to cover the taxes and fees, I was able to walk out with some fresh plates.
 
-![photo of license plate after registration](https://www.instagram.com/p/BsDjHGxFEbQ/media?size=l)
+[![photo of license plate after registration](https://www.instagram.com/p/BsDjHGxFEbQ/media?size=l "photo of license plate after registration")](https://www.instagram.com/p/BsDjHGxFEbQ/)
 
 Success!
