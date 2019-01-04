@@ -27,7 +27,6 @@ He was willing to sell me his second set of fairings at a very reasonable price,
 
 Since I brought the bike home to my garage last night, I couldn't resist a quick test-fit of the fairing. I was expecting to need some tweaks since these are older bikes and might be a little tweaked here and there themselves, but it fit easily without any need to "use the force" to make things line up.
 
-Here's the best I could do in the low light from last night:
-![first look at the replacement fairing on the bike](/assets/img/ktm505-fairingfirstlook.jpg "first look at the replacement fairing on the bike")
+![first daylight look at the replacement fairing on the bike](/assets/img/ktm505-fairingfirstlook.jpg "first daylight look at the replacement fairing on the bike")
 
 I'll need to find a few pieces of hardware finish mounting it properly, but it's starting to look like a real rally bike again!
