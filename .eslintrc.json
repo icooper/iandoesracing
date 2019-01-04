@@ -8,10 +8,13 @@
         "ecmaVersion": 2016
     },
     "rules": {
-        "semi": [
-            "error",
-            "always"
-        ],
-        "no-console": "off"
+        "semi": "off",
+        "no-console": "off",
+        "no-undef": "off",
+        "no-unused-vars": "off",
+        "no-cond-assign": "off",
+        "no-control-regex": "off",
+        "no-empty": "off",
+        "no-useless-escape": "off"
     }
 }
