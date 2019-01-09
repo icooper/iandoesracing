@@ -30,7 +30,7 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 |  10.00 | Vehicle  | IRC front and rear rim strips                            |
 |  26.95 | Vehicle  | Enduro Engineering route sheet holder                    |
 | 123.11 | Vehicle  | Shinko 546 front and rear tires                          |
-|  62.61 | Vehicle  | [WPS Featherweight Lithium battery]({% link _posts/2019-01-03-bringing-it-home.md %}) |
+|  62.61 | Vehicle  | [WPS Featherweight lithium battery]({% link _posts/2019-01-08-new-battery.md %}) |
 |  78.77 | Cosmetic | vinyl wrap                                               |
 |  43.19 | Cosmetic | primer and knifeless tape                                |
 
