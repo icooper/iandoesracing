@@ -21,7 +21,9 @@ I attended the 2018 [Sandblast Rally](https://www.sandblastrally.com/) as a cour
 
 ## Racer Prep
 
-As I post entries about racer preparation, I'll add them to a list on this page.
+* [Rider Protection]({% link _posts/2019-01-08-rider-protection.md %}): keeping my spine in one piece
+
+As I post additional entries about racer preparation, I'll link to them above.
 
 ----
 

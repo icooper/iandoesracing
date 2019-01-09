@@ -14,7 +14,7 @@ I'll be riding a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike has b
 * [Rally Fairing Replacement]({% link _posts/2019-01-04-rally-fairing-replacement.md %}): fixing up the fiberglass
 * [New Battery]({% link _posts/2019-01-08-new-battery.md %}): installing the new battery
 
-As I post additional entries about bike preparation, I'll add them to the list above.
+As I post additional entries about bike preparation, I'll link to them above.
 
 ----
 
