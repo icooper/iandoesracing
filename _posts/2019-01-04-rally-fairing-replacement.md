@@ -30,3 +30,7 @@ Since I brought the bike home to my garage last night, I couldn't resist a quick
 ![first daylight look at the replacement fairing on the bike](/assets/img/ktm505-fairingfirstlook.jpg "first daylight look at the replacement fairing on the bike")
 
 I'll need to find a few pieces of hardware finish mounting it properly, but it's starting to look like a real rally bike again!
+
+<script type="text/javascript">
+
+</script>

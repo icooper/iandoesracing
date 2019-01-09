@@ -2,7 +2,7 @@
 layout: page
 slug: expenses
 title: Expenses
-scripts: [ '/assets/js/jquery.slim.js', '/assets/js/expenses.js' ]
+scripts: [ '/assets/js/expenses.js' ]
 ---
 
 <p class="lead" markdown="1">
