@@ -4,7 +4,7 @@ title: New Battery
 date: 2019-01-08
 ---
 
-After [the incident bringing the bike home from the storage unit]({% link _posts/2019-01-03-bringing-it-home.md %}), it was clear that a new battery was needed. I ended up ordering a WPS Featherweight lithium battery for $62.61 delivered to my doorstep while I was waiting around in the parking lot for roadside assistance to come and give me a jump. It arrived today! *Hurray!*
+After [the incident bringing the bike home from the storage unit]({% link _posts/2019-01-03-bringing-it-home.md %}), it was clear that a new battery was needed. I ended up ordering a WPS Featherweight lithium battery while I was waiting around in the parking lot for roadside assistance to come and give me a jump. It arrived today! *Hurray!*
 
 ![old Sycl lithium battery](/assets/img/oldbatt.jpg "old Sycl lithium battery")
 
