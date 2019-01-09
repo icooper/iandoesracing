@@ -9,7 +9,7 @@ scripts: [ '/assets/js/expenses.js' ]
   Motorcycle racing isn't cheap.
 </p>
 
-In the interest of transparency, here's a tally of the cost involved so far. I've grouped the expenses into several categories:
+In the interest of full transparency, here's a tally of the cost involved so far. I've grouped the expenses into several categories:
 * __Entry__: entry and administrative fees
 * __Racer__: things for me
 * __Vehicle__: things for the bike
@@ -20,9 +20,9 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 
 | Amount | Category | Description                                              |
 | ------ | -------- | -------------------------------------------------------- |
-| 290.00 | Entry    | Sandblast Rally 2019 motorcycle early entry fee          |
-|  45.00 | Entry    | NASA Rally Sport 365-day membership fee                  |
-|  65.00 | Entry    | NASA rally license fee                                   |
+| 290.00 | Entry    | [Sandblast Rally 2019 motorcycle early entry fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
+|  45.00 | Entry    | [NASA Rally Sport 365-day membership fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
+|  65.00 | Entry    | [NASA rally license fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
 |  24.95 | Racer    | First aid kit                                            |
 | 220.00 | Racer    | [Leatt Fusion 3.0 body protector (used)]({% link _posts/2019-01-08-rider-protection.md %}) |
 | 200.00 | Vehicle  | [Rally Moto Kit fiberglass fairing (used)]({% link _posts/2019-01-04-rally-fairing-replacement.md %}) |
