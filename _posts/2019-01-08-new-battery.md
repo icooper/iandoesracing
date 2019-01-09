@@ -12,7 +12,7 @@ The current battery in [the KTM](/the-bike) is an old lithium battery by Sycl (n
 * the KTM 505 XC-F has no kickstarter and
 * the Rekluse auto-clutch means that push-starting it requires some tools.
 
-*I need a reliable e-start.*
+I *really* want the magic button to work reliably.
 
 ![new WPS Featherweight lithium battery](/assets/img/newbatt.jpg "new WPS Featherweight lithium battery")
 
