@@ -12,6 +12,8 @@ The current battery in [the KTM](/the-bike) is an old lithium battery by Sycl (n
 * the KTM 505 XC-F has no kickstarter and
 * the Rekluse auto-clutch means that push-starting it requires some tools.
 
+*I need a reliable e-start.*
+
 ![new WPS Featherweight lithium battery](/assets/img/newbatt.jpg "new WPS Featherweight lithium battery")
 
 I chose the WPS battery because it was an affordable, lightweight, and of course won't spill <s>when I dump the bike</s> if the bike needs a nap. It has an integrated battery capacity indicator on top that gives you a low/medium/high indication by way of some LEDs at the press of a button. I know that it's more a gimmick than anything else, but it is cool.
