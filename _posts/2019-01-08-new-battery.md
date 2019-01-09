@@ -8,7 +8,7 @@ After [the incident bringing the bike home from the storage unit]({% link _posts
 
 ![old Sycl lithium battery](/assets/img/oldbatt.jpg "old Sycl lithium battery")
 
-The current battery in [the KTM](/the-bike) is an old lithium battery by Sycl (no longer in business) that has been in the bike for at least five years. It might be salvageable but I feel like it's worth the relatively low cost to replace it, especially since
+The current battery in [the KTM](/the-bike) is an old lithium battery by Sycl (no longer in business) that has been in the bike for *at least* five years. It might be salvageable but I feel like it's worth the relatively low cost to replace it, especially since
 * the KTM 505 XC-F has no kickstarter and
 * the Rekluse auto-clutch means that push-starting it requires some tools.
 
