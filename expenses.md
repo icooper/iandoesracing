@@ -23,7 +23,7 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 | 290.00 | Entry    | [Sandblast Rally 2019 motorcycle early entry fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
 |  45.00 | Entry    | [NASA Rally Sport 365-day membership fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
 |  65.00 | Entry    | [NASA rally license fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
-|  24.95 | Racer    | First aid kit                                            |
+|  24.95 | Racer    | [First aid kit]({% link _posts/2019-01-09-first-aid-kit.md %}) |
 | 220.00 | Racer    | [Leatt Fusion 3.0 body protector (used)]({% link _posts/2019-01-08-rider-protection.md %}) |
 | 200.00 | Vehicle  | [Rally Moto Kit fiberglass fairing (used)]({% link _posts/2019-01-04-rally-fairing-replacement.md %}) |
 |  41.71 | Vehicle  | Kenda font and rear heavy duty tubes                     |
