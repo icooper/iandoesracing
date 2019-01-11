@@ -13,6 +13,7 @@ I'll be riding a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike has b
 * [Bringing It Home]({% link _posts/2019-01-03-bringing-it-home.md %}): dead battery woes
 * [Rally Fairing Replacement]({% link _posts/2019-01-04-rally-fairing-replacement.md %}): fixing up the fiberglass
 * [New Battery]({% link _posts/2019-01-08-new-battery.md %}): installing the new battery
+* [New Shoes]({% link _posts/2019-01-10-new-shoes.md %}): where the rubber meets the...sand?
 
 As I post additional entries about bike preparation, I'll link to them above.
 
