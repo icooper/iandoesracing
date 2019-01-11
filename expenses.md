@@ -27,7 +27,7 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 | 220.00 | Racer    | [Leatt Fusion 3.0 body protector (used)]({% link _posts/2019-01-08-rider-protection.md %}) |
 | 200.00 | Vehicle  | [Rally Moto Kit fiberglass fairing (used)]({% link _posts/2019-01-04-rally-fairing-replacement.md %}) |
 |  41.71 | Vehicle  | [Kenda font and rear heavy duty tubes]({% link _posts/2019-01-10-new-shoes.md %}) |
-|  10.00 | Vehicle  | IRC front and rear rim strips                            |
+|  10.00 | Vehicle  | [IRC front and rear rim strips]({% link _posts/2019-01-10-new-shoes.md %}) |
 |  26.95 | Vehicle  | Enduro Engineering route sheet holder                    |
 | 123.11 | Vehicle  | [Shinko 546 front and rear tires]({% link _posts/2019-01-10-new-shoes.md %}) |
 |  62.61 | Vehicle  | [WPS Featherweight lithium battery]({% link _posts/2019-01-08-new-battery.md %}) |
