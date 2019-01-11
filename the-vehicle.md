@@ -5,7 +5,7 @@ title: The Vehicle
 longTitle: About Ian's Bike
 ---
 
-![ride to work on a dirty bike](/assets/img/ktm505-dirtyatwork.jpg "ride to work on a dirty bike")
+![the bike after demudding](/assets/img/ktm505-afterbath.jpg "the bike after demudding")
 
 I'll be riding a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike has been modified with a frame-mounted nav tower and fairing that was originally made by [@motominded](https://www.instagram.com/motominded/) for [Neduro's 2012 Dakar entry](https://advrider.com/f/threads/707131/). Before I purchased the bike, it had also been raced by Ned in the [2013 Touareg Rally](https://advrider.com/f/threads/862074/) and the 2013 [Baja Rally](https://www.bajarallymoto.com/), so if I don't make it to the finish, it's not because of the bike!
 
@@ -18,6 +18,7 @@ I'll be riding a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike has b
 * [Rally Fairing Replacement]({% link _posts/2019-01-04-rally-fairing-replacement.md %}): fixing up the fiberglass
 * [New Battery]({% link _posts/2019-01-08-new-battery.md %}): installing the new battery
 * [New Shoes]({% link _posts/2019-01-10-new-shoes.md %}): where the rubber meets the...sand?
+* [De-mudding the KTM]({% link _posts/2019-01-11-demudding.md %}): separating the mud from the bike
 
 As I post additional entries about bike preparation, I'll link to them above.
 
