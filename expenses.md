@@ -37,7 +37,8 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 |  16.07 | Vehicle  | replacement seat bolt kit |
 |  15.06 | Vehicle  | countershaft seal kit |
 |   9.29 | Vehicle  | countershaft sprocket bolt and dome washer |
-|  78.77 | Cosmetic | [vinyl wrap]({% link _posts/2019-01-15-graphics-part-1.md %}) |
+|  78.77 | Cosmetic | [vinyl wrap materials]({% link _posts/2019-01-15-graphics-part-1.md %}) |
+| 292.57 | Travel   | 3 nights at the Quality Inn in Bennettsville |
 
 <p id="total" markdown="1">Total cost so far: `not cheap`</p>
 
