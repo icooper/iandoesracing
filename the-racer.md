@@ -24,6 +24,7 @@ I attended the 2018 [Sandblast Rally](https://www.sandblastrally.com/) as a cour
 * [Rider Protection]({% link _posts/2019-01-08-rider-protection.md %}): keeping my spine in one piece
 * [Fees, Fees, and More Fees]({% link _posts/2019-01-09-fees-fees-fees.md %}): what it takes to be official
 * [First Aid Kit]({% link _posts/2019-01-09-first-aid-kit.md %}): just in case
+* [Medical Evaluation]({% link _posts/2019-01-22-medical-eval.md %}): race physical
 
 As I post additional entries about racer preparation, I'll link to them above.
 
