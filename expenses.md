@@ -24,14 +24,15 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 |  45.00 | Entry    | [NASA Rally Sport 365-day membership fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
 |  65.00 | Entry    | [NASA rally license fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
 |  70.00 | Entry    | [Medical evaluation]({% link _posts/2019-01-22-medical-eval.md %}) |
-|  24.95 | Racer    | [First aid kit]({% link _posts/2019-01-09-first-aid-kit.md %}) |
 | 220.00 | Racer    | [Leatt Fusion 3.0 body protector (used)]({% link _posts/2019-01-08-rider-protection.md %}) |
+|  24.95 | Racer    | [First aid kit]({% link _posts/2019-01-09-first-aid-kit.md %}) |
 | 200.00 | Vehicle  | [Rally Moto Kit fiberglass fairing (used)]({% link _posts/2019-01-04-rally-fairing-replacement.md %}) |
+|  62.61 | Vehicle  | [WPS Featherweight lithium battery]({% link _posts/2019-01-08-new-battery.md %}) |
+| 123.11 | Vehicle  | [Shinko 546 front and rear tires]({% link _posts/2019-01-10-new-shoes.md %}) |
 |  41.71 | Vehicle  | [Kenda font and rear heavy duty tubes]({% link _posts/2019-01-10-new-shoes.md %}) |
 |  10.00 | Vehicle  | [IRC front and rear rim strips]({% link _posts/2019-01-10-new-shoes.md %}) |
 |  26.95 | Vehicle  | [Enduro Engineering roll chart holder]({% link _posts/2019-01-21-navigation-equipment.md %}) |
-| 123.11 | Vehicle  | [Shinko 546 front and rear tires]({% link _posts/2019-01-10-new-shoes.md %}) |
-|  62.61 | Vehicle  | [WPS Featherweight lithium battery]({% link _posts/2019-01-08-new-battery.md %}) |
+|  52.58 | Vehicle  | Motorex 10W50 synthetic oil and K&N filter |
 |  14.13 | Vehicle  | replacement Acerbis gas cap |
 |  16.07 | Vehicle  | replacement seat bolt kit |
 |  15.06 | Vehicle  | countershaft seal kit |
