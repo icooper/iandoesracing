@@ -23,7 +23,7 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 | 290.00 | Entry    | [Sandblast Rally 2019 motorcycle early entry fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
 |  45.00 | Entry    | [NASA Rally Sport 365-day membership fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
 |  65.00 | Entry    | [NASA rally license fee]({% link _posts/2019-01-09-fees-fees-fees.md %}) |
-|  70.00 | Racer    | [Medical evaluation]({% link _posts/2019-01-22-medical-eval.md %}) |
+|  70.00 | Entry    | [Medical evaluation]({% link _posts/2019-01-22-medical-eval.md %}) |
 |  24.95 | Racer    | [First aid kit]({% link _posts/2019-01-09-first-aid-kit.md %}) |
 | 220.00 | Racer    | [Leatt Fusion 3.0 body protector (used)]({% link _posts/2019-01-08-rider-protection.md %}) |
 | 200.00 | Vehicle  | [Rally Moto Kit fiberglass fairing (used)]({% link _posts/2019-01-04-rally-fairing-replacement.md %}) |
@@ -32,6 +32,10 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 |  26.95 | Vehicle  | [Enduro Engineering roll chart holder]({% link _posts/2019-01-21-navigation-equipment.md %}) |
 | 123.11 | Vehicle  | [Shinko 546 front and rear tires]({% link _posts/2019-01-10-new-shoes.md %}) |
 |  62.61 | Vehicle  | [WPS Featherweight lithium battery]({% link _posts/2019-01-08-new-battery.md %}) |
+|  14.13 | Vehicle  | replacement Acerbis gas cap |
+|  16.07 | Vehicle  | replacement seat bolt kit |
+|  15.06 | Vehicle  | countershaft seal kit |
+|   9.29 | Vehicle  | countershaft sprocket bolt and dome washer |
 |  78.77 | Cosmetic | [vinyl wrap]({% link _posts/2019-01-15-graphics-part-1.md %}) |
 
 <p id="total" markdown="1">Total cost so far: `not cheap`</p>
