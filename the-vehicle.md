@@ -20,6 +20,7 @@ I'll be riding a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike has b
 * [New Shoes]({% link _posts/2019-01-10-new-shoes.md %}): where the rubber meets the...sand?
 * [De-mudding the KTM]({% link _posts/2019-01-11-demudding.md %}): separating the mud from the bike
 * [Graphics (part 1 of 2)]({% link _posts/2019-01-15-graphics-part-1.md %}): scissors and stencils and vinyl, oh my
+* [Navigation Equipment]({% link _posts/2019-01-21-navigation-equipment.md %}): are we there yet?
 
 As I post additional entries about bike preparation, I'll link to them above.
 
