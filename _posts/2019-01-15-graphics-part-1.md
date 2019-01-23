@@ -24,8 +24,8 @@ This evening I got back to work. I cut a piece of vinyl sized to fit a stencil a
 
 The vinyl is then carefully applied to the body of the KTM. I pulled the fairing and plastic off of the bike so it's a bit easier to work with.
 
-It's getting late again, so I'll finish up the graphics and post part two tomorrow. Here's a sneak preview.
+It's getting late again, so I'll have to finish it later. Here's a sneak preview.
 
 ![sneak preview of graphics](/assets/img/tailvinylpreview.jpg "sneak preview of graphics")
 
-I'm excited about how it's all going to come out; I can't wait to show you all the finished product tomorrow!
+I'm excited about how it's all going to come out; I can't wait to show you all the finished product!
