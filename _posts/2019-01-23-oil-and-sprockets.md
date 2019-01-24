@@ -4,7 +4,7 @@ title: Changing Oil &amp; Gearing
 date: 2019-01-23
 ---
 
-This evening I changed the oil on the bike. Unlike some other KTM models (_cough cough RFS cough cough_), the RF4 motor in the 505 XC-F is pretty easy to service. I used 1.25L of Motorex 10W-50 synthetic oil and a K&N filter, and it was all finished in about 15 minutes. No big deal!
+This evening I changed the oil on the bike. Unlike some other KTM models (_cough cough RFS cough cough_), the RF4 motor in the 505 XC-F is pretty easy to service. I used 1.25L of Motorex 10W-50 synthetic oil and a K&N filter, and it was all finished in about 25 minutes. No fuss, no mess!
 
 I also wanted to change the countershaft (front) sprocket from a 13-tooth sprocket to a 14-tooth sprocket. This will give me a little more speed for the same RPMs. I previously was using the bike for more trail riding. I have a 46-tooth sprocket on the rear wheel and I'll leave that as it is.
 
