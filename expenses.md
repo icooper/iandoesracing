@@ -32,7 +32,7 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 |  41.71 | Vehicle  | [Kenda font and rear heavy duty tubes]({% link _posts/2019-01-10-new-shoes.md %}) |
 |  10.00 | Vehicle  | [IRC front and rear rim strips]({% link _posts/2019-01-10-new-shoes.md %}) |
 |  26.95 | Vehicle  | [Enduro Engineering roll chart holder]({% link _posts/2019-01-21-navigation-equipment.md %}) |
-|  52.58 | Vehicle  | Motorex 10W50 synthetic oil and K&N filter |
+|  52.58 | Vehicle  | [Motorex 10W50 synthetic oil and K&N filter]({% link _posts/2019-01-23-oil-and-sprockets.md %}) |
 |  14.13 | Vehicle  | replacement Acerbis gas cap |
 |  16.07 | Vehicle  | replacement seat bolt kit |
 |  15.06 | Vehicle  | countershaft seal kit |
