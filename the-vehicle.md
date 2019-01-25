@@ -5,7 +5,7 @@ title: The Vehicle
 longTitle: About Ian's Bike
 ---
 
-![the bike after demudding](/assets/img/ktm505-afterbath.jpg "the bike after demudding")
+![the bike](/assets/img/vinyldone-side.jpg "the bike")
 
 I'll be riding a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike has been modified with a frame-mounted nav tower and fairing that was originally made by [@motominded](https://www.instagram.com/motominded/) for [Neduro's 2012 Dakar entry](https://advrider.com/f/threads/707131/). Before I purchased the bike, it had also been raced by Ned in the [2013 Touareg Rally](https://advrider.com/f/threads/862074/) and the 2013 [Baja Rally](https://www.bajarallymoto.com/), so if I don't make it to the finish, it's not because of the bike!
 
@@ -23,6 +23,7 @@ I'll be riding a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike has b
 * [Navigation Equipment]({% link _posts/2019-01-21-navigation-equipment.md %}): are we there yet?
 * [Changing Oil & Gearing]({% link _posts/2019-01-23-oil-and-sprockets.md %}): routine maintenance and broken stuff
 * [Graphics (part 2 of 2)]({% link _posts/2019-01-24-graphics-part-2.md %}): finished at last
+* [Valve Clearance Check]({% link _posts/2019-01-24-valve-check.md %}): tappy tappets are happy tappets
 
 As I post additional entries about bike preparation, I'll link to them above.
 
