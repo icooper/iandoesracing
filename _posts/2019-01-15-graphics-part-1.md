@@ -28,4 +28,4 @@ It's getting late again, so I'll have to finish it later. Here's a sneak preview
 
 ![sneak preview of graphics](/assets/img/tailvinylpreview.jpg "sneak preview of graphics")
 
-I'm excited about how it's all going to come out; I can't wait to show you all the finished product!
+I'm excited about how it's all going to come out; I can't wait to show you all [the finished product!]({% link _posts/2019-01-24-graphics-part-2.md %})
