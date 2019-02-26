@@ -6,11 +6,9 @@ date: 2019-02-26
 
 [![Vineyards of Casa Valduga in Bento Gonçalves, Brazil](/assets/img/brazilvineyards.jpg "Vineyards of Casa Valduga in Bento Gonçalves, Brazil")](http://www.casavalduga.com.br/)
 
-I've been out of town for about a month, so we're going to pick up about where we left off.
-
 ![Horseshoe Falls in Niagara Falls, Ontario](/assets/img/horseshoefalls.jpg "Horseshoe Falls in Niagara Falls, Ontario")
 
-It's only four days until [the 2019 Sandblast Rally](https://www.sandblastrally.com/)! I have a long list of things to take care of before I leave tomorrow; I think it's going to be a late night.
+I've been out of town for about a month, so let's pick up about where we left off in January. Now it's only four days until [the 2019 Sandblast Rally](https://www.sandblastrally.com/)! I have a long list of things to take care of before I leave tomorrow; I think it's going to be a late night.
 
 ## Rally Racing Clinic
 
