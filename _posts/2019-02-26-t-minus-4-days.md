@@ -16,11 +16,11 @@ A few weeks ago, I signed up for Bill Conger's [rally racing clinic](https://www
 
 ## Bike Maintenance
 
-My last work on the bike was the oil change and valve check, but I still have a leaky countershaft seal to replace. I have the parts here, and it's on my to-do list for tonight. Also, I need to mount the new tires---also on the list for tonight after the countershaft seal.
+My last work on the bike was the [oil change]({% link _posts/2019-01-23-oil-and-sprockets.md %}) and [valve check]({% link _posts/2019-01-24-valve-check.md %}), but I still have a leaky countershaft seal to replace. I have the parts here, and it's on my to-do list for tonight. Also, I need to mount the [new tires]({% link _posts/2019-01-10-new-shoes.md %})---also on the list for tonight after the countershaft seal.
 
 ## Packing
 
-I'm not talking about packing my suitcase for the trip, but how I'm going to pack the required equipment onto myself and/or the bike. As I've discussed in previous posts, I need to carry a first aid kit and a few documents, and some water and/or sports drink would be good too.
+I'm not talking about packing my suitcase for the trip, but how I'm going to pack the required equipment onto myself and/or the bike. As I've [discussed in a previous post]({% link _posts/2019-01-09-first-aid-kit.md %}), I need to carry a first aid kit and a few documents, and some water and/or sports drink would be good too.
 
 I've been experimenting with carrying my Camelbak backpack while wearing my Leatt body protector, but it's iffy since the neck brace interferes with where the backpack shoulder straps would normally go. I may need to revisit the Rollie Bags option and carry some water bottles instead of a hydration bladder. I *think* that there will be plenty of time during transit or waiting for my check-in times to snag a drink---I'm not going to be drinking on the stage regardless.
 
