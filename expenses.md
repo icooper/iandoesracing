@@ -26,6 +26,7 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 |  70.00 | Entry    | [Medical evaluation]({% link _posts/2019-01-22-medical-eval.md %}) |
 | 220.00 | Racer    | [Leatt Fusion 3.0 body protector (used)]({% link _posts/2019-01-08-rider-protection.md %}) |
 |  24.95 | Racer    | [First aid kit]({% link _posts/2019-01-09-first-aid-kit.md %}) |
+| 130.00 | Racer    | Bill Conger's Rally Racing Clinic |
 | 200.00 | Vehicle  | [Rally Moto Kit fiberglass fairing (used)]({% link _posts/2019-01-04-rally-fairing-replacement.md %}) |
 |  62.61 | Vehicle  | [WPS Featherweight lithium battery]({% link _posts/2019-01-08-new-battery.md %}) |
 | 123.11 | Vehicle  | [Shinko 546 front and rear tires]({% link _posts/2019-01-10-new-shoes.md %}) |
@@ -38,7 +39,7 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 |  15.06 | Vehicle  | countershaft seal kit |
 |   9.29 | Vehicle  | countershaft sprocket bolt and dome washer |
 |  78.77 | Cosmetic | [vinyl wrap materials]({% link _posts/2019-01-24-graphics-part-2.md %}) |
-| 292.57 | Travel   | 3 nights at the Quality Inn in Bennettsville |
+| 281.93 | Travel   | 3 nights at the Quality Inn in Bennettsville |
 
 <p id="total" markdown="1">Total cost so far: `not cheap`</p>
 
