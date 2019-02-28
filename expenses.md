@@ -39,7 +39,7 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 |  15.06 | Vehicle  | countershaft seal kit |
 |   9.29 | Vehicle  | countershaft sprocket bolt and dome washer |
 |  78.77 | Cosmetic | [vinyl wrap materials]({% link _posts/2019-01-24-graphics-part-2.md %}) |
-| 281.93 | Travel   | 3 nights at the Quality Inn in Bennettsville |
+| 281.93 | Travel   | 3 nights lodging near the rally |
 
 <p id="total" markdown="1">Total cost so far: `not cheap`</p>
 
