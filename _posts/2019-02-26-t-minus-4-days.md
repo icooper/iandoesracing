@@ -16,19 +16,25 @@ A few weeks ago, I signed up for Bill Conger's [rally racing clinic](https://www
 
 ## Bike Maintenance
 
-My last work on the bike was the [oil change]({% link _posts/2019-01-23-oil-and-sprockets.md %}) and [valve check]({% link _posts/2019-01-24-valve-check.md %}), but I still have a leaky countershaft seal to replace. I have the parts here, and it's on my to-do list for tonight. Also, I need to mount the [new tires]({% link _posts/2019-01-10-new-shoes.md %})---also on the list for tonight after the countershaft seal.
+My last work on the bike was the [oil change]({% link _posts/2019-01-23-oil-and-sprockets.md %}) and [valve check]({% link _posts/2019-01-24-valve-check.md %}), but I still have a leaky countershaft seal to replace. I have the parts here, and it's on my to-do list for tonight.
+
+A few other bits need some attention tonight as well:
+
+* Acerbis gas cap: my old cap was missing the rubber seal so gas leaks everywhere when it's full. Buying the whole cap assembly was the same price as just the rubber seal, so I guess I have an extra cap now.
+* Seat bolt kit: the hollow aluminum bolt that holds some of the rear plastics on and is where the seat bolt goes through was stripped out, so I need to install a new one.
+* Countershaft bolt and dome washer: the countershaft dome washer is intended to be replaced at every sprocket change. It comes with a new bolt (with preapplied threadlocker) so that will get changed out as well.
+
+Finally, I need to mount the [new tires]({% link _posts/2019-01-10-new-shoes.md %}). It's probably my least favorite maintenance item to deal with, but it needs to be taken care of tonight.
 
 ## Packing
 
 I'm not talking about packing my suitcase for the trip, but how I'm going to pack the required equipment onto myself and/or the bike. As I've [discussed in a previous post]({% link _posts/2019-01-09-first-aid-kit.md %}), I need to carry a first aid kit and a few documents, and some water and/or sports drink would be good too.
 
-I've been experimenting with carrying my Camelbak backpack while wearing my Leatt body protector, but it's iffy since the neck brace interferes with where the backpack shoulder straps would normally go. I may need to revisit the Rollie Bags option and carry some water bottles instead of a hydration bladder. I *think* that there will be plenty of time during transit or waiting for my check-in times to snag a drink---I'm not going to be drinking on the stage regardless.
-
-We'll see. Maybe I can find a way to fit a bladder to the back---or front---of the Leatt. This seems like it would be ideal.
+I've been experimenting with carrying my Camelbak backpack while wearing my Leatt body protector, but it's not ideal since the neck brace interferes with where the backpack shoulder straps would normally go. I'll use the rollie bags and carry a water bladder in there instead of on my back. I *think* that there will be plenty of time during transit or waiting for my check-in times to snag a drink---I'm not going to be drinking on the stage regardless.
 
 ## Reflectivity
 
-The rules mandate a minimum of 10 square inches of reflective material on the front of my person or helmet, and another 10 square inches on the back (not obscured by any backpack). I have plenty of reflective vinyl left over so I plan to apply some to my helmet and Leatt body protector to satisfy this requirement.
+The rules mandate a minimum of 10 square inches of reflective material on the front of my person or helmet, and another 10 square inches on the back (not obscured by any backpack). I have an inexpensive reflective safety vest that fits over the Leatt to satisfy this requirement.
 
 ## Weather
 

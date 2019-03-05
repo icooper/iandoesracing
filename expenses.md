@@ -16,7 +16,7 @@ In the interest of full transparency, here's a tally of the cost involved so far
 * __Cosmetic__: things related to making the bike look good
 * __Travel__: things related to getting to and from the event
 
-Keep in mind, as I have been riding for years, I already have a lot of motorcycle gear. Don't consider this an exhaustive list of what's needed to participate in an event like this. Most items are linked to a relevant blog post.
+Keep in mind, as I have been riding for years, I already have a lot of motorcycle gear. Don't consider this an exhaustive list of what's needed to participate in an event like this---notably, I also did not include any food costs. Most items in the list are linked to a relevant blog post.
 
 | Amount | Category | Description                                              |
 | ------ | -------- | -------------------------------------------------------- |
@@ -34,28 +34,19 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 |  10.00 | Vehicle  | [IRC front and rear rim strips]({% link _posts/2019-01-10-new-shoes.md %}) |
 |  26.95 | Vehicle  | [Enduro Engineering roll chart holder]({% link _posts/2019-01-21-navigation-equipment.md %}) |
 |  52.58 | Vehicle  | [Motorex 10W50 synthetic oil and K&N filter]({% link _posts/2019-01-23-oil-and-sprockets.md %}) |
-|  14.13 | Vehicle  | replacement Acerbis gas cap |
-|  16.07 | Vehicle  | replacement seat bolt kit |
-|  15.06 | Vehicle  | countershaft seal kit |
-|   9.29 | Vehicle  | countershaft sprocket bolt and dome washer |
+|  14.13 | Vehicle  | [replacement Acerbis gas cap]({% link _posts/2019-02-26-t-minus-4-days.md %}) |
+|  16.07 | Vehicle  | [replacement seat bolt kit]({% link _posts/2019-02-26-t-minus-4-days.md %}) |
+|  15.06 | Vehicle  | [countershaft seal kit]({% link _posts/2019-02-26-t-minus-4-days.md %}) |
+|   9.29 | Vehicle  | [countershaft sprocket bolt and dome washer]({% link _posts/2019-02-26-t-minus-4-days.md %}) |
 |  78.77 | Cosmetic | [vinyl wrap materials]({% link _posts/2019-01-24-graphics-part-2.md %}) |
 | 281.93 | Travel   | 3 nights lodging near the rally |
 | 208.91 | Travel   | <abbr title="1925 miles @ average $2.234/gal and 20.6 mpg">fuel for the truck</abbr> |
 
-<p id="total" markdown="1">Total cost so far: `not cheap`</p>
+<p id="total" markdown="1">Total cost: `not cheap`</p>
 
 ----
 
-I'm planning on doing this regardless of outside financial support, so any contributions received are above and beyond the basic need. That said, any help along the way is very much appreciated as it reduces the financial burden on myself and my family.
-
-Although the entry fee for Sandblast is relatively low, that's only a small part of the expense of participating in an event like this. Even just a few dollars helps offset the cost of gas, tires, and food.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="3G239GEBGF5CU" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+Although the entry fee for Sandblast is relatively low, that's only a small part of the expense of participating in an event like this. Many thanks to my coworker and friend Andrew for his support in getting me to the 2019 Sandblast Rally.
 
 ----
 
