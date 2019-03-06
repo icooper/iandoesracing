@@ -27,7 +27,7 @@ I rode a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike was modified 
 * [Graphics (part 2 of 2)]({% link _posts/2019-01-24-graphics-part-2.md %}): finished at last
 * [Valve Clearance Check]({% link _posts/2019-01-24-valve-check.md %}): tappy tappets are happy tappets
 * [T-minus 4 Days]({% link _posts/2019-02-26-t-minus-4-days.md %}): last-minute maintenance
-* [Debrief]({% link _posts/2019-03-05-debrief %}): what worked and what didn't
+* [Debrief]({% link _posts/2019-03-05-debrief.md %}): what worked and what didn't
 
 ----
 

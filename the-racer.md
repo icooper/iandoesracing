@@ -28,7 +28,7 @@ On March 2, 2019, I left the starting line at 8:46:00 a.m. and launched into the
 * [First Aid Kit]({% link _posts/2019-01-09-first-aid-kit.md %}): just in case
 * [Medical Evaluation]({% link _posts/2019-01-22-medical-eval.md %}): race physical
 * [T-minus 4 Days]({% link _posts/2019-02-26-t-minus-4-days.md %}): last-minute preparation
-* [Debrief]({% link _posts/2019-03-05-debrief %}): what worked and what didn't
+* [Debrief]({% link _posts/2019-03-05-debrief.md %}): what worked and what didn't
 
 ----
 
