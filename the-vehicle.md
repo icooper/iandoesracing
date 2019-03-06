@@ -10,7 +10,7 @@ longTitle: About Ian's Bike
 
 ![the bike](/assets/img/vinyldone-side.jpg "the bike")
 
-I rode a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike was modified with a frame-mounted nav tower and fairing that was originally made by [@motominded](https://www.instagram.com/motominded/) for [Neduro's 2012 Dakar entry](https://advrider.com/f/threads/707131/). Before I purchased the bike, it had also been raced by Ned in the [2013 Touareg Rally](https://advrider.com/f/threads/862074/) and the 2013 [Baja Rally](https://www.bajarallymoto.com/), so if I didn't make it to the finish, it wasn't because of the bike!
+I rode a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike was modified with a frame-mounted nav tower and fairing that was originally made by [MotoMinded](https://www.motominded.com/) [<i class="fab fa-instagram"></i>](https://www.instagram.com/motominded/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/motominded/) for [Neduro's 2012 Dakar entry](https://advrider.com/f/threads/707131/). Before I purchased the bike, it had also been raced by Ned in the [2013 Touareg Rally](https://advrider.com/f/threads/862074/) and the 2013 [Baja Rally](https://www.bajarallymoto.com/), so if I didn't make it to the finish, it wasn't because of the bike!
 
 ![neduro to dakar 2012](/assets/img/nedurotodakar.jpg "neduro to dakar 2012")
 
