@@ -5,13 +5,15 @@ title: The Vehicle
 longTitle: About Ian's Bike
 ---
 
+_The bike is for sale. [Check out this post on ADVrider.com for more information.](https://advrider.com/f/threads/1369579/)_
+
 ![the bike](/assets/img/vinyldone-side.jpg "the bike")
 
-I'll be riding a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike has been modified with a frame-mounted nav tower and fairing that was originally made by [@motominded](https://www.instagram.com/motominded/) for [Neduro's 2012 Dakar entry](https://advrider.com/f/threads/707131/). Before I purchased the bike, it had also been raced by Ned in the [2013 Touareg Rally](https://advrider.com/f/threads/862074/) and the 2013 [Baja Rally](https://www.bajarallymoto.com/), so if I don't make it to the finish, it's not because of the bike!
+I rode a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike was modified with a frame-mounted nav tower and fairing that was originally made by [@motominded](https://www.instagram.com/motominded/) for [Neduro's 2012 Dakar entry](https://advrider.com/f/threads/707131/). Before I purchased the bike, it had also been raced by Ned in the [2013 Touareg Rally](https://advrider.com/f/threads/862074/) and the 2013 [Baja Rally](https://www.bajarallymoto.com/), so if I didn't make it to the finish, it wasn't because of the bike!
 
 ![neduro to dakar 2012](/assets/img/nedurotodakar.jpg "neduro to dakar 2012")
 
-## Bike Prep
+## 2019 Sandblast Rally Bike Prep
 
 * [Getting Legal]({% link _posts/2018-12-31-getting-legal.md %}): inspection, insurance, and state registration
 * [Bringing It Home]({% link _posts/2019-01-03-bringing-it-home.md %}): dead battery woes
@@ -24,11 +26,9 @@ I'll be riding a 2009 KTM 505 XC-F for the 2019 Sandblast Rally. This bike has b
 * [Changing Oil & Gearing]({% link _posts/2019-01-23-oil-and-sprockets.md %}): routine maintenance and broken stuff
 * [Graphics (part 2 of 2)]({% link _posts/2019-01-24-graphics-part-2.md %}): finished at last
 * [Valve Clearance Check]({% link _posts/2019-01-24-valve-check.md %}): tappy tappets are happy tappets
-
-As I post additional entries about bike preparation, I'll link to them above.
+* [T-minus 4 Days]({% link _posts/2019-02-26-t-minus-4-days.md %}): last-minute maintenance
+* [Debrief]({% link _posts/2019-03-05-debrief %}): what worked and what didn't
 
 ----
-
-[Continue to follow my journey](/) as a first-time competitor in the 2019 Sandblast Rally. I'll talk about the process of entering as a first-time competitor, preparing myself and the bike, and how it all turns out in the end!
 
 * [Contact me or connect on social media.](/contact.html)
