@@ -53,13 +53,13 @@ You can read a little bit about the [history of the bike over here](/the-vehicle
 [![action shot](/assets/img/ktm505-actionshot.jpg "action shot")](https://photos.app.goo.gl/QzMe5BiYq7Qt2hL6A)
 [There are a bunch more photos here.](https://photos.app.goo.gl/QzMe5BiYq7Qt2hL6A)
 
-I've owned this bike since 2014. I raced it in the [2019 Sandblast Rally](https://www.sandblastrally.com/) ([bike prep details](/the-vehicle#2019-sandblast-rally-bike-prep)) at the beginning of March and it ran flawlessly. Before that, I mostly just used it to putt around on trails and do some light dual-sporting. Although it has served me reliably, it is really built to be a desert rally racer and isn't at home as a dual-sporter or trail bike. I am more of a slow trail rider so I think it's time for the 505 to move on to a new home.
+I've owned this bike since 2014. I raced it in the [2019 Sandblast Rally](https://www.sandblastrally.com/) ([bike prep details](/the-vehicle#2019-sandblast-rally-bike-prep)) at the beginning of March and it ran flawlessly. Before that, I mostly just used it to putt around on trails and do some light dual-sporting. Although it has served me reliably, it is really built to be a desert rally racer and isn't at home as a dual-sport or trail bike. I am more of a slow trail rider so I think it's time for the 505 to move on to a new home.
 
 The bike has a license plate and is street-legal with a normal Kentucky street title in my name.
 
 **I'm asking $6000 for everything.** I'm also open to trading it straight across for a fuel-injected small-displacement (&le;500cc) mini-ADV or street bike like a Kawasaki Versus 300, Honda CB500X, or BMW G310 GS. The bike is currently located in northern Kentucky (near Cincinnati, Ohio). If you don't have a truck or trailer, I can deliver the bike in the greater Cincinnati area.
 
-If you're interested in buying the bike or have any questions about it, contact me by email at [ktmforsale@iandoesracing.com](mailto:ktmforsale@iandoesracing.com) or on social media and we'll get the conversation started!
+If you're interested in buying the bike or have any questions about it, email me at [ktmforsale@iandoesracing.com](mailto:ktmforsale@iandoesracing.com) or contact me on social media and we'll get the conversation started!
 
 [![left side front](/assets/img/ktm505-fs1.jpg)](https://photos.app.goo.gl/QzMe5BiYq7Qt2hL6A)
 [![right side front](/assets/img/ktm505-fs2.jpg)](https://photos.app.goo.gl/QzMe5BiYq7Qt2hL6A)
