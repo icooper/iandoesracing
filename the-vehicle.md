@@ -5,7 +5,7 @@ title: The Vehicle
 longTitle: About Ian's Bike
 ---
 <p class="lead" markdown="1">
-  This bike is for sale! Check out [this Flea Market thread on ADVrider.com](https://advrider.com/f/threads/1369579/) for more information. Contact me [via forum PM](https://advrider.com/f/conversations/add?to=James%20Adams).
+  The rally bike is for sale---[check it out!]({% link _posts/2019-03-13-ktm-for-sale.md %})
 </p>
 
 ![the bike](/assets/img/vinyldone-side.jpg "the bike")
