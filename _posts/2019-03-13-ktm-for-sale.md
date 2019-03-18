@@ -57,7 +57,7 @@ I've owned this bike since 2014. I raced it in the [2019 Sandblast Rally](https:
 
 The bike has a license plate and is street-legal with a normal Kentucky street title in my name.
 
-**I'm asking $6000 for everything.** I'm also open to trading it straight across for a fuel-injected small-displacement (&le;500cc) mini-ADV or street bike like a Kawasaki Versus 300, Honda CB500X, or BMW G310 GS. The bike is currently located in northern Kentucky (near Cincinnati, Ohio). If you don't have a truck or trailer, I can deliver the bike in the greater Cincinnati area.
+**I'm asking $5500 for everything.** I'm also open to trading it straight across for a fuel-injected small-displacement (&le;500cc) "adventure" bike like a Kawasaki Versus 300, Honda CB500X, or BMW G310 GS. The bike is currently located in northern Kentucky (near Cincinnati, Ohio). If you don't have a truck or trailer, I can deliver the bike in the greater Cincinnati area.
 
 If you're interested in buying the bike or have any questions about it, email me at [ktmforsale@iandoesracing.com](mailto:ktmforsale@iandoesracing.com) or contact me on social media and we'll get the conversation started!
 
