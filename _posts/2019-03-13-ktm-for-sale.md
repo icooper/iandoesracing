@@ -16,6 +16,8 @@ You can read a little bit about the [history of the bike over here](/the-vehicle
 * [2009 KTM 505 XC-F](https://www.topspeed.com/motorcycles/motorcycle-reviews/ktm/2009-ktm-450-505-xc-f-ar74442.html) (477cc short-stroke twin-cam RF4 motor)
 * [MotoMinded](https://www.motominded.com/) Rally Moto Kit V1 nav tower and fairing
 * [Rekluse Core EXP 3.0](https://rekluse.com/product/core-exp-3-0-clutch/) autoclutch w/[adjustable slave cylinder](https://rekluse.com/product/adjustable-slave-cylinder-assembly/)
+* [TrailTech 90W High Output DC stator w/flywheel](https://ddcracing.net/products/ktm-husky-beta-high-power-stator?variant=37282729409)
+* [Rigid Industries D-Series](https://www.rigidindustries.com/d-series-pro-d-series.html) Fog (low beam) and Driving (high beam) LED lights
 * [Garmin GPSMAP 62s](https://buy.garmin.com/en-US/US/p/63801) rugged GPS w/[Touratech vibration-damping cradle](https://touratech-usa.com/Store/Garmin-GPSMAP-62-64-Locking-Motorcycle-Mount)
 * [Enduro Engineering roadbook holder](https://enduroeng.com/index.php?route=product/product&product_id=3977)
 * [FMF PowerCore 4 exhaust](https://www.fmfracing.com/Product/ProductDetail?CategoryID=635&BikeType=MX%2FOFFROAD&BikeMake=KTM&BikeModel=505%20XCF&BikeYear=2009&ItemID=045553&imaConfig=Single&ParentCategoryID=31&Priority=11) w/[FMF MegaBomb header](https://www.fmfracing.com/Product/ProductDetail?CategoryID=676&BikeType=MX%2FOFFROAD&BikeMake=KTM&BikeModel=505%20XCF&BikeYear=2009&ItemID=045342&ParentCategoryID=32&Priority=0)
