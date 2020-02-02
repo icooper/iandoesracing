@@ -4,7 +4,7 @@ title: Valve Clearance Check
 date: 2019-01-24
 ---
 
-Part of the periodic maintenance on [the KTM](/the-vehicle) is to make sure that there's the appropriate clearance between the cam and the followers when the valves are fully closed. Too much clearance means that the valves are not opening the whole way and causes extra noise and wear from the drive train. Too little clearance means that the valves are not seating fully and can make the bike hard to start or cause burned valves because much of the heat is transferred to the head through the seat when the valve is closed.
+Part of the periodic maintenance on [the KTM]({% link _posts/2018-12-31-the-ktm.md %}) is to make sure that there's the appropriate clearance between the cam and the followers when the valves are fully closed. Too much clearance means that the valves are not opening the whole way and causes extra noise and wear from the drive train. Too little clearance means that the valves are not seating fully and can make the bike hard to start or cause burned valves because much of the heat is transferred to the head through the seat when the valve is closed.
 
 As an engine wears over time, the valve clearance generally decreases as the hardened steel valve seats are *very slowly* pushed further into the aluminum head by the hammering of the valve. In this bike, there are small steel shims that fit in the cam follower to allow some adjustment. If the clearance is less than the appropriate amount, the shim is replaced with a slightly thinner (like by 0.0015") shim so that the cam-to-follower clearance is corrected.
 

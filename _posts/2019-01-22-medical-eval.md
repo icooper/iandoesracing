@@ -4,7 +4,7 @@ title: Medical Evaluation
 date: 2019-01-22
 ---
 
-In order to get a NASA rally license, [you have to see a doctor](http://nasarallysport.com/main/rally202) and fill out a [medical evaluation form](http://nasarallysport.com/rules-forms/NRS_Form_Medical.pdf). The doctor will check your usual vitals, test your peripheral vision and neurological function, and make a determination as to whether or not you are fit to receive a rally license. Since this is directly related to getting the rally license, I included it on the [expenses list](/expenses) in the _Entry_ category.
+In order to get a NASA rally license, [you have to see a doctor](http://nasarallysport.com/main/rally202) and fill out a [medical evaluation form](http://nasarallysport.com/rules-forms/NRS_Form_Medical.pdf). The doctor will check your usual vitals, test your peripheral vision and neurological function, and make a determination as to whether or not you are fit to receive a rally license. Since this is directly related to getting the rally license, I included it on the [expenses list]({% link _posts/2019-01-08-sandblast-expenses.md %}) in the _Entry_ category.
 
 Keep in mind that health insurance doesn't cover things like this. If you are due for an annual physical, your doctor may be able to complete this as part of the physical since basically everything in here should be something they're already doing.
 

@@ -4,7 +4,7 @@ title: Rally Fairing Replacement
 date: 2019-01-04
 ---
 
-[The KTM](/the-vehicle) is equipped with a first generation [Rally Moto Kit by my friends at Motominded](https://www.motominded.com/products/rally-moto-kit-v2). Unlike the second generation (released just last December), which uses a factory KTM 450RR windscreen, the first generation used a custom fiberglass fairing.
+[The KTM]({% link _posts/2018-12-31-the-ktm.md %}) is equipped with a first generation [Rally Moto Kit by my friends at Motominded](https://www.motominded.com/products/rally-moto-kit-v2). Unlike the second generation (released just last December), which uses a factory KTM 450RR windscreen, the first generation used a custom fiberglass fairing.
 
 Here you can see what it looked like on that first day I brought it home:
 ![the KTM upon arriving home the first time](/assets/img/ktm505-orig.jpg "the KTM upon arriving home the first time")

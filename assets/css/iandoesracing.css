@@ -68,13 +68,13 @@ ul > li {
 
 .profile-photo {
     display: block;
-    background-image: url(/assets/img/profilepic.jpg);
+    background-image: url(/assets/img/ianc-profile.jpg);
     background-position: center center;
     background-repeat: no-repeat;
-    width: 226px; /* this is the size of the image */
-    height: 200px;
+    width: 225px; /* this is the size of the image */
+    height: 225px;
     margin: 0 auto;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .headimg-right-10rem {

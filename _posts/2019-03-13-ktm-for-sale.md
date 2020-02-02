@@ -6,7 +6,7 @@ date: 2019-03-13
 
 <p class="lead" markdown="1">The rally bike is sold!</p>
 
-You can read a little bit about the [history of the bike over here](/the-vehicle). Right now, it's set up like I had it at the 2019 Sandblast Rally.
+You can read a little bit about the [history of the bike over here]({% link _posts/2018-12-31-the-ktm.md %}). Right now, it's set up like I had it at the 2019 Sandblast Rally.
 
 [![side view](/assets/img/vinyldone-side.jpg "side view")](https://photos.app.goo.gl/QzMe5BiYq7Qt2hL6A)
 [There are a bunch more photos here.](https://photos.app.goo.gl/QzMe5BiYq7Qt2hL6A)

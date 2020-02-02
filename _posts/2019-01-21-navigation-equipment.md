@@ -4,7 +4,7 @@ title: Navigation Equipment
 date: 2019-01-21
 ---
 
-Navigation at Sandblast is done by way of a [_roll chart_ (a.k.a. _route sheet_ or _road book_)](http://www.rollcharts.org/rollchartdef.html), so I need to mount a roll chart holder to [the KTM](/the-vehicle). Since the roll chart will be a narrow enduro-style roll chart, I chose to use the [Enduro Engineering roll chart holder](https://enduroeng.com/index.php?route=product/product&product_id=3977). It is inexpensive and mounts easily to just about anything thanks to a clever mounting solution involving some bits of rubber hose and a hose clamp.
+Navigation at Sandblast is done by way of a [_roll chart_ (a.k.a. _route sheet_ or _road book_)](http://www.rollcharts.org/rollchartdef.html), so I need to mount a roll chart holder to [the KTM]({% link _posts/2018-12-31-the-ktm.md %}). Since the roll chart will be a narrow enduro-style roll chart, I chose to use the [Enduro Engineering roll chart holder](https://enduroeng.com/index.php?route=product/product&product_id=3977). It is inexpensive and mounts easily to just about anything thanks to a clever mounting solution involving some bits of rubber hose and a hose clamp.
 
 I've mounted the roll chart holder high on the nav tower, on the left side. This way I can advance the roll chart without taking my hand off the throttle.
 

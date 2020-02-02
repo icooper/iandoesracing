@@ -4,7 +4,7 @@ title: Graphics (part 1 of 2)
 date: 2019-01-15
 ---
 
-I've decided to make some custom graphics for [the bike](/the-vehicle). The previous owner of the fairing did a cool Star Wars-themed paint job, but I want to go a different direction. The previous owner of the bike was kind enough to send me the outlines for the custom graphics that he previously had on the bike, so I have that to start with.
+I've decided to make some custom graphics for [the bike]({% link _posts/2018-12-31-the-ktm.md %}). The previous owner of the fairing did a cool Star Wars-themed paint job, but I want to go a different direction. The previous owner of the bike was kind enough to send me the outlines for the custom graphics that he previously had on the bike, so I have that to start with.
 
 ![labeling the stencils](/assets/img/stencils1.jpg "labeling the stencils")
 

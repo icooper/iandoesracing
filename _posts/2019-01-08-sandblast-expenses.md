@@ -1,7 +1,7 @@
 ---
-layout: page
-slug: expenses
-title: Expenses
+layout: post
+title: 2019 Sandblast Expenses
+date: 2019-01-08
 scripts: [ '/assets/js/expenses.js' ]
 ---
 
@@ -47,7 +47,3 @@ Keep in mind, as I have been riding for years, I already have a lot of motorcycl
 ----
 
 Although the entry fee for Sandblast is relatively low, that's only a small part of the expense of participating in an event like this. Many thanks to my coworker and friend Andrew for his support in getting me to the 2019 Sandblast Rally.
-
-----
-
-* [Contact me or connect on social media.](/contact.html)
