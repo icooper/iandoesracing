@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'For Sale: 2009 KTM 505 XC-F Rally'
+title: 'Sold: 2009 KTM 505 XC-F Rally'
 date: 2019-03-13
 ---
 
