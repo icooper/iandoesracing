@@ -74,7 +74,7 @@ ul > li {
     width: 225px; /* this is the size of the image */
     height: 225px;
     margin: 0 auto;
-    border-radius: 10px;
+    border-radius: 4px;
 }
 
 .headimg-right-10rem {
