@@ -19,7 +19,7 @@ Here's a summary of the components I have on the bike at this time:
 | Frame | [2013 Trek Marlin](https://archive.trekbikes.com/us/en/2013/Trek/marlin), aluminum, 19" size |
 | Fork | [Manitou Markhor](https://manitoumtb.com/product/markhor/), 120mm travel |
 | Headset | [Cane Creek Viscoset](https://www.canecreek.com/product/viscoset/) upper and [40-Series](https://www.canecreek.com/product/forty/) lower |
-| Drivetrain | [SRAM NX Eagle](https://www.sram.com/en/sram/models/gs-nx-1-a1) groupset, 34T chainring, 11-50 12-speed cassette |
+| Drivetrain | [SRAM NX Eagle](https://www.sram.com/en/sram/models/gs-nx-1-a1), 34T chainring, 11-50 12-speed cassette |
 | Pedals | [Crankbrothers Double Shot 1](https://www.crankbrothers.com/products/double-shot-1) |
 | Wheels | [Novatec D481SBT](http://www.novatecusa.net/product/d481sbt/)/[D482TSBT](http://www.novatecusa.net/product/d482tsbt-11s/) hubs, [WTB ST i25](https://www.wtb.com/products/st?variant=296890973) rims |
 | Tires | [Continental RaceKing ShieldWall](https://www.continental-tires.com/bicycle/tires/mountainbike-tires/race-king-shieldwall-system) 29x2.2, [Muc-Off sealant](https://muc-off.com/collections/prepare-inflate-maintain-tubeless/products/no-puncture-hassle-tubeless-sealant?variant=7779683860508) |
